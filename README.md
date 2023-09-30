@@ -1,2 +1,2 @@
 # clic
-My simple python calculator
+Just a Dumb program okay?
